@@ -31,12 +31,14 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/vladochka2812/Test-Car-Dealer-App.git>
    cd car-dealer-app
 
 2. Install dependencies:
-npm install
+    ```bash
+    npm install
 
 3. Running the Application
-npm run dev
+   ```bash
+   npm run dev
 
